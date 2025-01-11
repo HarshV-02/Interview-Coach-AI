@@ -21,11 +21,11 @@ To get started with the AI-Powered Mock Interview Platform, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone My-git
+   git clone https://github.com/HarshV-02/Interview-Coach-AI.git
 
 2. Navigate to the project directory:
    ```bash
-   cd ai-mock-interview
+   cd 
 
 3. Install dependencies by running: `npm install` or `yarn install`
 
@@ -50,7 +50,7 @@ To use the AI-Powered Mock Interview Platform, follow these guidelines:
 
 ## Feedback
 
-If you have any feedback, please reach me at [rockstarg750@gmail.com](mailto:rockstarg750@gmail.com) or connect with me on [LinkedIn](Harshit's LinkedIn).
+If you have any feedback, please reach me at [dabbup111@gmail.com](dabbup111@gmail.com) or connect with me on [LinkedIn](https://in.linkedin.com/in/harshit-pandey-b3b600255).
 
 
 ## Contributing
@@ -65,4 +65,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Support
 
 Show your support by 🌟 the project!!
->>>>>>> 0ad8137 (Initial commit)
