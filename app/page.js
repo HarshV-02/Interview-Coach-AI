@@ -39,7 +39,7 @@ const page = () => {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="">
+                  href="https://github.com/HarshV-02/Interview-Coach-AI.git">
                   <FaGithub className="w-10 h-8" />
                 </a>
               </div>
