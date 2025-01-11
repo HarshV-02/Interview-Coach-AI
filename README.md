@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Interview-Coach-AI
-The AI Interview Coach is a next-gen platform using AI to personalize interview preparation. Built with Next.js, TailwindCSS, Clerk, Drizzle ORM, and Neon, it offers real-time feedback, custom mock scenarios, performance analytics, and a sleek, user-friendly design, empowering users to confidently prepare for interviews and improve their skills.
-=======
 # AI-Powered Mock Interview Platform
 
 ## Description
@@ -23,9 +19,7 @@ To get started with the AI-Powered Mock Interview Platform, follow these steps:
    ```bash
    git clone https://github.com/HarshV-02/Interview-Coach-AI.git
 
-2. Navigate to the project directory:
-   ```bash
-   cd 
+2. Navigate to the project directory
 
 3. Install dependencies by running: `npm install` or `yarn install`
 
